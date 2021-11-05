@@ -1,2 +1,2 @@
-# cwirkacz
+# cwierkacz
 ćwierkacz
